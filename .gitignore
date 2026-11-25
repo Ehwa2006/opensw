@@ -1,0 +1,11 @@
+# Godot 4
+.godot/
+/android/
+/export/
+*.translation
+
+# OS / 에디터
+.DS_Store
+Thumbs.db
+.vscode/
+__pycache__/

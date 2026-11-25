@@ -1,0 +1,353 @@
+{
+ "floor_corridor": {
+  "color": [
+   1,
+   1,
+   1
+  ],
+  "albedo": "res://assets/textures/level/Tiles_5_Albedo.jpg",
+  "normal": "res://assets/textures/level/Tiles_5_Normal.jpg"
+ },
+ "floor_room": {
+  "color": [
+   1,
+   1,
+   1
+  ],
+  "albedo": "res://assets/textures/level/Tiles_12_Albedo.jpg",
+  "normal": "res://assets/textures/level/Tiles_12_Normal.jpg"
+ },
+ "floor_medical": {
+  "color": [
+   1,
+   1,
+   1
+  ],
+  "albedo": "res://assets/textures/level/Tiles_10_Albedo.jpg",
+  "normal": "res://assets/textures/level/Tiles_10_Normal.jpg"
+ },
+ "wall": {
+  "color": [
+   1,
+   1,
+   1
+  ],
+  "albedo": "res://assets/textures/level/Wall_1_Albedo.jpg",
+  "normal": "res://assets/textures/level/Wall_1_Normal.jpg"
+ },
+ "wall_medical": {
+  "color": [
+   1,
+   1,
+   1
+  ],
+  "albedo": "res://assets/textures/level/Wall_4_Albedo.jpg",
+  "normal": "res://assets/textures/level/Wall_4_Normal.jpg"
+ },
+ "ceiling": {
+  "color": [
+   1,
+   1,
+   1
+  ],
+  "albedo": "res://assets/textures/level/Wall_5_Albedo.jpg",
+  "normal": "res://assets/textures/level/Wall_5_Normal.jpg"
+ },
+ "Bed": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/Bed_Albedo.jpg",
+  "normal": "res://assets/textures/props/Bed_Normal.jpg"
+ },
+ "Bench": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/Bench_Albedo.jpg",
+  "normal": "res://assets/textures/props/Bench_Normal.jpg"
+ },
+ "Box_V1": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/Box_V1_Albedo.jpg",
+  "normal": "res://assets/textures/props/Box_V1_Normal.jpg"
+ },
+ "Box_V2": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/Box_V2_Albedo.jpg",
+  "normal": "res://assets/textures/props/Box_V2_Normal.jpg"
+ },
+ "CanOld_Damaged": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/CanOld_Damaged_Albedo.jpg",
+  "normal": "res://assets/textures/props/CanOld_Damaged_Normal.jpg"
+ },
+ "ChairOffice": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/ChairOffice_Albedo.jpg",
+  "normal": "res://assets/textures/props/ChairOffice_Normal.jpg"
+ },
+ "Crutches": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/Crutches_Albedo.jpg",
+  "normal": "res://assets/textures/props/Crutches_Normal.jpg"
+ },
+ "Cupboard": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/Cupboard_Albedo.jpg",
+  "normal": "res://assets/textures/props/Cupboard_Normal.jpg"
+ },
+ "Cupboard_Door": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/Cupboard_Door_Albedo.jpg",
+  "normal": "res://assets/textures/props/Cupboard_Door_Normal.jpg"
+ },
+ "CurtainsMedic": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/CurtainsMedic_Albedo.jpg",
+  "normal": "res://assets/textures/props/CurtainsMedic_Normal.jpg"
+ },
+ "Heater": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/Heater_Albedo.jpg",
+  "normal": "res://assets/textures/props/Heater_Normal.jpg"
+ },
+ "LampWall": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/LampWall_Albedoň.jpg",
+  "normal": "res://assets/textures/props/LampWall_Normal.jpg"
+ },
+ "MainDoor": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/MainDoor_Albedo.jpg",
+  "normal": "res://assets/textures/props/MainDoor_Normal.jpg"
+ },
+ "Mattress": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/Mattress_Albedo.jpg",
+  "normal": "res://assets/textures/props/Mattress_Normal.jpg"
+ },
+ "MedRack": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/MedRack_Albedo.jpg",
+  "normal": "res://assets/textures/props/MedRack_Normal.jpg"
+ },
+ "MedRackDoor_R": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/MedRackDoor_R_Albedo.jpg",
+  "normal": "res://assets/textures/props/MedRackDoor_R_Normal.jpg"
+ },
+ "MedRackDoor_L": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/MedRackDoor_L_Albedo.jpg",
+  "normal": "res://assets/textures/props/MedRackDoor_L_Normal.jpg"
+ },
+ "MorgueBox": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/MorgueBox_Albedo.jpg",
+  "normal": "res://assets/textures/props/MorgueBox_Normal.jpg"
+ },
+ "MorgueBox_Bed": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/MorgueBox_Bed_Albedo.jpg",
+  "normal": "res://assets/textures/props/MorgueBox_Bed_Normal.jpg"
+ },
+ "MorgueBox_Door": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/MorgueBox_Door_Albedo.jpg",
+  "normal": "res://assets/textures/props/MorgueBox_Door_Normal.jpg"
+ },
+ "MorgueTable": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/MorgueTable_Albedo.jpg",
+  "normal": "res://assets/textures/props/MorgueTable_Normal.jpg"
+ },
+ "MorgueWheelBed": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/MorgueWheelBed_Albedo.jpg",
+  "normal": "res://assets/textures/props/MorgueWheelBed_Normal.jpg"
+ },
+ "PC_Monitor": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/PC_Monitor_Albedo.jpg",
+  "normal": "res://assets/textures/props/PC_Monitor_Normal.jpg"
+ },
+ "Paper": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/Paper_Albedo.jpg",
+  "normal": "res://assets/textures/props/Paper_Normal.jpg"
+ },
+ "SingleLight": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/SingleLight_Albedo.jpg",
+  "normal": "res://assets/textures/props/SingleLight_Normal.jpg"
+ },
+ "Construction": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/SurgeryChair_Construction_Albedo.jpg",
+  "normal": "res://assets/textures/props/SurgeryChair_Construction_Normal.jpg"
+ },
+ "Pillow": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/SurgeryChair_Pillow_Albedo.jpg",
+  "normal": "res://assets/textures/props/SurgeryChair_Pillow_Normal.jpg"
+ },
+ "SurgeryLamp": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/SurgeryLamp__Albedo.jpg",
+  "normal": "res://assets/textures/props/SurgeryLamp_Normal.jpg"
+ },
+ "SurgeryTable": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/SurgeryTable_Albedo.jpg",
+  "normal": "res://assets/textures/props/SurgeryTable_Normal.jpg"
+ },
+ "TV_Retro": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/TV_Retro_Albedo.jpg",
+  "normal": "res://assets/textures/props/TV_Retro_Normal.jpg"
+ },
+ "TableOffice": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/TableOffice_Albedo.jpg",
+  "normal": "res://assets/textures/props/TableOfficeNormal.jpg"
+ },
+ "TableSmall": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/TableSmall_Albedo.jpg",
+  "normal": "res://assets/textures/props/TableSmall_Normal.jpg"
+ },
+ "WheelChair": {
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "albedo": "res://assets/textures/props/WheelChair_Albedo.jpg",
+  "normal": "res://assets/textures/props/WheelChair_Normal.jpg"
+ }
+}
