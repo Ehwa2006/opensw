@@ -1,0 +1,6 @@
+# 로컬 DB 파일은 커밋하지 않는다
+data/
+*.db
+*.db-wal
+*.db-shm
+.pytest_cache/
